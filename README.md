@@ -22,4 +22,4 @@ We expect members to follow these rules at events and socials, while attending e
 
 ## Attribution
 
-Inspired by [Conference Code of Conduct](http://confcodeofconduct.com/) and [MLH Code of Conduct](https://static.mlh.io/docs/mlh-code-of-conduct.pdf).
+Inspired by [Conference Code of Conduct](http://confcodeofconduct.com/) and [MLH Code of Conduct](https://static.mlh.io/docs/mlh-code-of-conduct.pdf). This Code of Conduct is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
